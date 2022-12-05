@@ -1,4 +1,13 @@
-# WeNet
+
+# the git was forked from WeNet(https://github.com/wenet-e2e/wenet) . Thanks.
+
+if you want to train Wenet with 'examples/librispeech/s0' on Amazon SageMaker, you can try these only two files:
+
+1. one guide for running step=-1,0,1,2,3 and step=5,6
+
+2. another jupyter notebook file for running step=4 on Amazon SageMaker Studio
+
+------------------------------------------------------------------------------------------
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python-Version](https://img.shields.io/badge/Python-3.7%7C3.8-brightgreen)](https://github.com/wenet-e2e/wenet)
