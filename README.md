@@ -4,8 +4,10 @@
 if you want to train Wenet with 'examples/librispeech/s0' on Amazon SageMaker, you can try these only two files:
 
 1. one guide for running step=-1,0,1,2,3 and step=5,6
+(https://github.com/shenshaoyong/training-wenet-on-SageMaker/blob/main/guides.md)
 
 2. another jupyter notebook file for running step=4 on Amazon SageMaker Studio
+(https://github.com/shenshaoyong/training-wenet-on-SageMaker/blob/main/wenet2-byos-p4d.ipynb)
 
 ------------------------------------------------------------------------------------------
 
